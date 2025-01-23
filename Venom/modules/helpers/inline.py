@@ -10,6 +10,9 @@ DEV_OP = [
         InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_GRP}"),
     ],
     [
+        InlineKeyboardButton(text="⚝ʏᴏᴜᴛᴜʙᴇ⚝", url=f"https://www.youtube.com/allexamgkgspractice"),
+    ],
+    [
         InlineKeyboardButton(
             text="😍 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 😍",
             url=f"https://t.me/{VenomX.username}?startgroup=true",
